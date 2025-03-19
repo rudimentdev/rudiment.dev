@@ -1,6 +1,6 @@
 {
   "name": "rudiment.dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rudi's personal website for blog, musings, junks, etc..",
   "scripts": {
     "build": "eleventy"
