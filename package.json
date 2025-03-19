@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/rudimentdev/rudimentdev.github.io#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.1"
+    "@11ty/eleventy": "^3.0.0"
   }
 }
